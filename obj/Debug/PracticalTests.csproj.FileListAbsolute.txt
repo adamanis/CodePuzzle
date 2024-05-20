@@ -1,0 +1,7 @@
+C:\Users\adama\source\repos\PracticalTests\bin\Debug\PracticalTests.exe.config
+C:\Users\adama\source\repos\PracticalTests\bin\Debug\PracticalTests.exe
+C:\Users\adama\source\repos\PracticalTests\bin\Debug\PracticalTests.pdb
+C:\Users\adama\source\repos\PracticalTests\obj\Debug\PracticalTests.csproj.AssemblyReference.cache
+C:\Users\adama\source\repos\PracticalTests\obj\Debug\PracticalTests.csproj.CoreCompileInputs.cache
+C:\Users\adama\source\repos\PracticalTests\obj\Debug\PracticalTests.exe
+C:\Users\adama\source\repos\PracticalTests\obj\Debug\PracticalTests.pdb

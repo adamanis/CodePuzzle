@@ -1,0 +1,14 @@
+C:\Users\adama\source\repos\PracticalTests\bin\Debug\PracticalTests.exe.config
+C:\Users\adama\source\repos\PracticalTests\bin\Debug\PracticalTests.exe
+C:\Users\adama\source\repos\PracticalTests\bin\Debug\PracticalTests.pdb
+C:\Users\adama\source\repos\PracticalTests\obj\Debug\CodePuzzle.csproj.AssemblyReference.cache
+C:\Users\adama\source\repos\PracticalTests\obj\Debug\CodePuzzle.csproj.CoreCompileInputs.cache
+C:\Users\adama\source\repos\PracticalTests\obj\Debug\PracticalTests.exe
+C:\Users\adama\source\repos\PracticalTests\obj\Debug\PracticalTests.pdb
+C:\Users\adama\source\repos\CodePuzzle\bin\Debug\PracticalTests.exe.config
+C:\Users\adama\source\repos\CodePuzzle\bin\Debug\PracticalTests.exe
+C:\Users\adama\source\repos\CodePuzzle\bin\Debug\PracticalTests.pdb
+C:\Users\adama\source\repos\CodePuzzle\obj\Debug\CodePuzzle.csproj.AssemblyReference.cache
+C:\Users\adama\source\repos\CodePuzzle\obj\Debug\CodePuzzle.csproj.CoreCompileInputs.cache
+C:\Users\adama\source\repos\CodePuzzle\obj\Debug\PracticalTests.exe
+C:\Users\adama\source\repos\CodePuzzle\obj\Debug\PracticalTests.pdb
